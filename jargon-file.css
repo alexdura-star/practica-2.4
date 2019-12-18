@@ -1,0 +1,12 @@
+body {
+    background-color: hsl(198, 50%, 85%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+    
