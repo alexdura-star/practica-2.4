@@ -26,3 +26,16 @@ blockquote {
         font-style: oblique;
     }
 
+
+pre {
+        background-color: rgb(240, 255, 28);
+        font-size: 1rem;
+        font-weight: bold;
+    }
+    
+address {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: normal;
+        text-align: right;
+    }
+
