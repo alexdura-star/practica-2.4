@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(198, 50%, 85%);
+    background-color: hsl(162, 61%, 74%);
     font-family: sans-serif;
 }
 
@@ -8,5 +8,21 @@ h1 {
     text-align: center;
     text-decoration: underline;
     text-transform: uppercase;
+}
 
-    
+h2 {
+    background-color: hsl(165, 50%, 50%);
+    font-size: 2rem;
+    }
+
+
+    h3{
+    background-color: hsl(172, 50%, 65%);
+    color:rgb(17, 126, 17);
+    font-size: 1.5rem;
+    }
+
+blockquote {
+        font-style: oblique;
+    }
+
